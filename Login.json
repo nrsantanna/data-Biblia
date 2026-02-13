@@ -1,8 +1,4 @@
 [
-  {
-    "Timestamp": "",
-    "Username": "Santanna",
-    "Email": "nrsantanna@gmail.com",
-    "Senha": "3092380"
-  }
+    { "user": "admin", "pass": "1234" },
+    { "user": "usuario", "pass": "senha" }
 ]
